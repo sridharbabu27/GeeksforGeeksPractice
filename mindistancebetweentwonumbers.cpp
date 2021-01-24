@@ -1,4 +1,4 @@
-
+problem:https://practice.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1/?company[]=Amazon&company[]=Amazon&problemStatus=solved&problemType=functional&page=1&sortBy=submissions&query=company[]AmazonproblemStatussolvedproblemTypefunctionalpage1sortBysubmissionscompany[]Amazon
 
 #include <bits/stdc++.h>
 using namespace std;
